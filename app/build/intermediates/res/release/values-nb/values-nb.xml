@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/C:/Users/klein/Documents/BarcodeScannerWidget_addOn-master/app/src/main/res/values-nb/arrays.xml -->
+    <eat-comment/>
+    <string-array name="country_codes">
+        <item>-</item>
+        <item>AR</item>
+        <item>AU</item>
+        <item>BR</item>
+        <item>BG</item>
+        <item>CA</item>
+        <item>CH</item>
+        <item>CN</item>
+        <item>CZ</item>
+        <item>DE</item>
+        <item>DK</item>
+        <item>ES</item>
+        <item>FI</item>
+        <item>FR</item>
+        <item>GB</item>
+        <item>GR</item>
+        <item>HU</item>
+        <item>ID</item>
+        <item>IT</item>
+        <item>JP</item>
+        <item>KR</item>
+        <item>NL</item>
+        <item>PL</item>
+        <item>PT</item>
+        <item>RO</item>
+        <item>RU</item>
+        <item>SE</item>
+        <item>SK</item>
+        <item>SI</item>
+        <item>TR</item>
+        <item>TW</item>
+        <item>US</item>
+    </string-array>
+    <string-array name="preferences_front_light_options">
+        <item>@string/preferences_front_light_on</item>
+        <item>@string/preferences_front_light_auto</item>
+        <item>@string/preferences_front_light_off</item>
+    </string-array>
+    <string-array name="preferences_front_light_values">
+        <item>ON</item>
+        <item>AUTO</item>
+        <item>OFF</item>
+    </string-array>
+    <!-- From: file:/C:/Users/klein/Documents/BarcodeScannerWidget_addOn-master/app/src/main/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string-array name="survey1">
+        <item>Jeg trenger noe hyggelig for å føle meg bedre.</item>
+        <item>Jeg føler meg tom.</item>
+        <item>Hvis jeg var fristet av noe akkurat nå, ville det vært veldig vanskelig å motstå.</item>
+        <item>Jeg ville ha ønsket å slutte med alle vanskelige oppgaver jeg ble gitt.</item>
+        <item>Jeg føler meg rolig og rasjonell</item>
+        <item>Jeg klarer ikke å ta til meg noe informasjon akkurat nå.</item>
+        <item>Jeg føler meg lat.</item>
+        <item>Jeg føler meg opplagt og fokusert.</item>
+        <item>Jeg vil gi opp.</item>
+        <item>Jeg føler det som om viljestyrken min er borte.</item>
+    </string-array>
+    <string-array name="survey2">
+        <item>Siden din forrige besvarelse: Jeg hadde et sterkt behov for tilhørighet.</item>
+        <item>Akkurat nå har jeg et sterkt behov for tilhørighet.</item>
+    </string-array>
+    <string-array name="survey3">
+        <item>Akkurat nå identifiserer jeg meg med/kjenner jeg en tilknytning til mine medstudenter/venner/familie.</item>
+        <item>Siden din forrige besvarelse: Jeg har identifisert meg med/kjent en tilknytning til mine medstudenter/venner/familie.</item>
+    </string-array>
+    <string-array name="survey4">
+        <item>Er andre personer tilstede?</item>
+        <item>Siden din forrige besvarelse: Var andre personer tilstede?</item>
+        <item>Er det andre personer fysisk tilstede som drikker sukkerholdige drikker?</item>
+        <item>Siden din forrige besvarelse: Var det andre personer fysisk tilstede som drakk sukkerholdige drikker?</item>
+        <item>Er det andre personer tilstede i media (f.eks., TV, radio, internett) som drikker sukkerholdige drikker?</item>
+        <item>Siden din forrige besvarelse: Var det andre personer tilstede i media (f.eks., TV, radio, internett) som drakk sukkerholdige drikker?</item>
+
+    </string-array>
+    <string-array name="survey5">
+        <item>Siden din forrige besvarelse: Hvor lenge har du sett på TV og/eller video/DVD/Blu-ray og/eller video streaming tjenester (f.eks. Netflix)?</item>
+        <item>Siden din forrige besvarelse: Hvor lenge har du brukt internett? (Vennligst se bort fra tid kun brukt til video og musikk streaming)</item>
+        <item>Siden din forrige besvarelse: Hvor lenge har du spilt på PC/Spillkonsoll med fast/håndholdt kontroll (Stillesittende spilling, f.eks PS4, Xbox 360)?</item>
+        <item>Siden din forrige besvarelse: Hvor lenge har du spilt på spillkonsoll med bevegelsessensorer (Aktiv spilling, f.eks. Wii, PS Move, Xbox Kinect)?</item>
+        <item>Siden din forrige besvarelse: Hvor lenge har du sittet ved/jobbet på en PC? (Vennligst se bort fra tid kun brukt til video og musikk streaming)</item>
+        <item>Siden din forrige besvarelse: Hvor lang tid har du brukt på å sende tekstmeldinger?</item>
+        <item>Siden din forrige besvarelse: Hvor lenge har du hørt på musikk på radio/mobil/strømmetjenester, o.l.? (Vennligst se bort fra tid hvor du samtidig har brukt internett eller PC til andre formål)</item>
+    </string-array>
+    <string-array name="survey6left">
+        <item>trøtt</item>
+        <item>fornøyd</item>
+        <item>stresset</item>
+        <item>full av energi</item>
+        <item>uvel</item>
+        <item>avslappet</item>
+    </string-array>
+    <string-array name="survey6right">
+        <item>våken</item>
+        <item>misfornøyd</item>
+        <item>rolig</item>
+        <item>tom for energi</item>
+        <item>vel</item>
+        <item>anspent</item>
+    </string-array>
+    <!-- From: file:/C:/Users/klein/Documents/BarcodeScannerWidget_addOn-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Gå til startsiden"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <!-- From: file:/C:/Users/klein/Documents/BarcodeScannerWidget_addOn-master/app/src/main/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="acc">Har du husket å ta på deg akselerometeret?</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">BarCode Scanner Widget</string>
+    <string name="app_picker_name">Applications</string>
+    <string name="bookmark_picker_name">Bookmarks</string>
+    <string name="button_add_calendar">Add to calendar</string>
+    <string name="button_add_contact">Add contact</string>
+    <string name="button_book_search">Book Search</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_capture_bc">scan strekkode</string>
+    <string name="button_capture_img">ta bilde</string>
+    <string name="button_custom_product_search">Custom search</string>
+    <string name="button_dial">Dial number</string>
+    <string name="button_email">Send email</string>
+    <string name="button_get_directions">Get directions</string>
+    <string name="button_minus">-</string>
+    <string name="button_mms">Send MMS</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_browser">Open browser</string>
+    <string name="button_plus">+</string>
+    <string name="button_product_search">Product search</string>
+    <string name="button_save">lagre</string>
+    <string name="button_search_book_contents">Search contents</string>
+    <string name="button_share_app">Application</string>
+    <string name="button_share_bookmark">Bookmark</string>
+    <string name="button_share_by_email">Share via email</string>
+    <string name="button_share_by_sms">Share via SMS</string>
+    <string name="button_share_clipboard">Clipboard</string>
+    <string name="button_share_contact">Contact</string>
+    <string name="button_show_map">Show map</string>
+    <string name="button_sms">Send SMS</string>
+    <string name="button_start">start</string>
+    <string name="button_test">test survey</string>
+    <string name="button_web_search">Web search</string>
+    <string name="button_wifi">Connect to Network</string>
+    <!-- From: file:/C:/Users/klein/Documents/BarcodeScannerWidget_addOn-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-nb/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> krever en oppdatering av Android Wear-appen."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kjører ikke med mindre du oppdaterer Android Wear-appen."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Oppdater Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> krever én eller flere Google Play Tjenester som ikke er tilgjengelige for øyeblikket. Ta kontakt med utvikleren for å få hjelp."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Aktiver Google Play Tjenester"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerer ikke med mindre du slår på Google Play Tjenester."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Aktiver Google Play Tjenester"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Forespurt av <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Installer Google Play Tjenester"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> kjører ikke uten Google Play Tjenester, som ikke er installert på telefonen din."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> kjører ikke uten Google Play Tjenester, som ikke er installert på nettbrettet ditt."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Installer Google Play Tjenester"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Den angitte kontoen finnes ikke på enheten. Velg en annen konto."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Ugyldig konto"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"En app krever Google Play Tjenester for å aktiveres."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Du må ha datatilkobling for å koble deg til Google Play-tjenester."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Nettverksfeil"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"En app krever at Google Play Tjenester oppdateres."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play Tjenester-feil"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Det oppsto en feil ved pålogging til den angitte kontoen. Velg en annen konto."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Pålogging mislyktes"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Det oppsto et ukjent problem med Google Play Tjenester."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> er avhengig av Google Play Tjenester, som ikke støttes av enheten din. Ta kontakt med produsenten for å få hjelp."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play-tjenester"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Oppdater"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kjører ikke med mindre du oppdaterer Google Play Tjenester."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Oppdater Google Play Tjenester"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kjører ikke uten Google Play Tjenester, som oppdateres akkurat nå."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Google Play Tjenester oppdateres"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Åpne på telefonen"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Logg på"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Logg på med Google"</string>
+    <!-- From: file:/C:/Users/klein/Documents/BarcodeScannerWidget_addOn-master/app/src/main/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+    <string name="crash_dialog_comment_prompt">You might add your comments about the problem below:</string>
+    <string name="crash_dialog_ok_toast">Thank you !</string>
+    <string name="crash_dialog_text">An unexpected error occurred forcing the
+    application to stop. Please help us fix this by sending us error data through email</string>
+    <string name="crash_dialog_title">BarCodeScannerWidget has crashed</string>
+    <string name="crash_notif_text">Please click here to help fix the issue.</string>
+    <string name="crash_notif_ticker_text">Unexpected error, please send a report</string>
+    <string name="crash_notif_title">BarCodeScannerWidget has crashed</string>
+    <string name="crash_toast_text">Ooooops ! I crashed!</string>
+    <string name="edit_text_amount">beløp i ml:</string>
+    <string name="edit_text_name">navn:</string>
+    <string name="five">5</string>
+    <string name="forgotAmount">Fyll inn beløp</string>
+    <string name="forgotName">Navn på drikkevare</string>
+    <string name="four">4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="history_clear_one_history_text">Clear</string>
+    <string name="history_clear_text">Clear history</string>
+    <string name="history_email_title">Barcode Scanner history</string>
+    <string name="history_empty">Empty</string>
+    <string name="history_empty_detail">No barcode scans have been recorded</string>
+    <string name="history_send">Send history</string>
+    <string name="history_title">History</string>
+    <string name="menu_encode_mecard">Use MECARD</string>
+    <string name="menu_encode_vcard">Use vCard</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_history">History</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <!-- From: file:/C:/Users/klein/Documents/BarcodeScannerWidget_addOn-master/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/res/values-nb/values.xml -->
+    <eat-comment/>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Cast"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Søker etter enheter …"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Koble til enheten"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"Koble fra"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"Sett på pause"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"Spill av"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"Ruteinnstillinger"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"Stopp castingen"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"System"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"Enheter"</string>
+    <!-- From: file:/C:/Users/klein/Documents/BarcodeScannerWidget_addOn-master/app/src/main/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="msg_bulk_mode_scanned">Bulk mode: barcode scanned and saved</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+    <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
+    <string name="msg_google_books">Google</string>
+    <string name="msg_google_product">Google</string>
+    <string name="msg_intent_failed">Sorry, the requested application could not be launched. The barcode contents may be invalid.</string>
+    <string name="msg_redirect">Redirect</string>
+    <string name="msg_sbc_book_not_searchable">Sorry, this book is not searchable.</string>
+    <string name="msg_sbc_failed">Sorry, the search encountered a problem.</string>
+    <string name="msg_sbc_no_page_returned">No page returned</string>
+    <string name="msg_sbc_page">Page</string>
+    <string name="msg_sbc_results">Results</string>
+    <string name="msg_sbc_searching_book">Searching book\u2026</string>
+    <string name="msg_sbc_snippet_unavailable">Snippet not available</string>
+    <string name="msg_share_explanation">You can share data by displaying a barcode on your screen and scanning it with another phone.</string>
+    <string name="msg_share_text">Or type some text and press Enter</string>
+    <string name="msg_sure">Are you sure?</string>
+    <string name="msg_unmount_usb">Sorry, the SD card is not accessible.</string>
+    <string name="next">neste</string>
+    <string name="one">1</string>
+    <string name="preferences_actions_title">When a barcode is found\u2026</string>
+    <string name="preferences_auto_focus_title">Use auto focus</string>
+    <string name="preferences_bulk_mode_summary">Scan and save many barcodes continuously</string>
+    <string name="preferences_bulk_mode_title">Bulk scan mode</string>
+    <string name="preferences_copy_to_clipboard_title">Copy to clipboard</string>
+    <string formatted="false" name="preferences_custom_product_search_summary">Substitutions: %s = contents, %f = format, %t = type</string>
+    <string name="preferences_custom_product_search_title">Custom search URL</string>
+    <string name="preferences_decode_1D_title">1D barcodes</string>
+    <string name="preferences_decode_Data_Matrix_title">Data Matrix</string>
+    <string name="preferences_decode_QR_title">QR Codes</string>
+    <string name="preferences_device_bug_workarounds_title">Device Bug Workarounds</string>
+    <string name="preferences_disable_continuous_focus_summary">Use only standard focus mode</string>
+    <string name="preferences_disable_continuous_focus_title">No continuous focus</string>
+    <string name="preferences_disable_exposure_title">No exposure</string>
+    <string name="preferences_front_light_auto">Automatic</string>
+    <string name="preferences_front_light_off">Off</string>
+    <string name="preferences_front_light_on">On</string>
+    <string name="preferences_front_light_summary">Improves scanning in low light on some phones, but may cause glare. Does not work on all phones.</string>
+    <string name="preferences_front_light_title">Use front light</string>
+    <string name="preferences_general_title">General settings</string>
+    <string name="preferences_invert_scan_summary">Scan for white barcodes on black background. Not available on some devices.</string>
+    <string name="preferences_invert_scan_title">Invert scan</string>
+    <string name="preferences_name">Settings</string>
+    <string name="preferences_play_beep_title">Beep</string>
+    <string name="preferences_remember_duplicates_summary">Store multiple scans of the same barcode in History</string>
+    <string name="preferences_remember_duplicates_title">Remember duplicates</string>
+    <string name="preferences_result_title">Result settings</string>
+    <string name="preferences_scanning_title">When scanning for barcodes, decode\u2026</string>
+    <string name="preferences_search_country">Search country</string>
+    <string name="preferences_supplemental_summary">Try to retrieve more information about the barcode contents</string>
+    <string name="preferences_supplemental_title">Retrieve more info</string>
+    <string name="preferences_try_bsplus">Try Barcode Scanner+</string>
+    <string name="preferences_try_bsplus_summary">Enhanced with new features and interface</string>
+    <string name="preferences_vibrate_title">Vibrate</string>
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+    <string name="sbc_name">Google Book Search</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="survey">Spørreskjema </string>
+    <string name="survey1button1">1 (Ikke i det hele tatt)</string>
+    <string name="survey1button7">7 (I veldig stor grad)</string>
+    <string name="survey2button1">1 (Sterkt uenig)</string>
+    <string name="survey2button5">5 (Veldig enig)</string>
+    <string name="survey3button1">1 (ikke i det hele tatt)</string>
+    <string name="survey3button5">5 (i veldig stor grad)</string>
+    <string name="survey4button1">0 (nei)</string>
+    <string name="survey4button2">1 (ja)</string>
+    <string name="survey6title">Hvordan føler du deg akkurat nå?</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="version">Version 3.0</string>
+    <string name="what_to_do">Hva vil du gjøre?</string>
+    <string name="wifi_changing_network">Requesting connection to network\u2026</string>
+    <string name="wifi_ssid_label">Network Name</string>
+    <string name="wifi_type_label">Type</string>
+    <string name="zxinglib_app_name">ZXingLib</string>
+    <string name="zxinglib_msg_default_status">Place a barcode inside the viewfinder rectangle to scan it. </string>
+</resources>
